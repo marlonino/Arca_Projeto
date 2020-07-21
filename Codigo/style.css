@@ -18,6 +18,8 @@ section{
     padding: 15px;
     width: 1000px;
     margin: auto;
+    font: menu  arial 200px ;
+    color: black;
     box-shadow:3px 3px 10px rgba(29, 47, 47, 0.568);
 
 }
