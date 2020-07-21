@@ -1,48 +1,30 @@
 body {
-    background-color: rgb(69, 69, 69);
-    font: 13pt Arial;
+    background-color: burlywood;
+    font: normal 20pt Arial;
 }
 
-main {
-    background-color: white;
+header{
+    color: cornsilk;
+    text-align: center;
+    font: italic 50pt;
+
+}
+
+section{
+    background-color: rgb(110, 155, 223);
+    border-radius: 10px;
+    padding: 150px;
     width: 500px;
-    padding: 20px;
     margin: auto;
-    border-radius: 10px;
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.529);
+    box-shadow:3px 3px 10px rgba(29, 47, 47, 0.568);
+
 }
 
-h1 {
-    color: darkgoldenrod;
+footer{
+    color: darkslategrey;
+    text-align: center;
+    font-style: italic;
+
+
 }
 
-h2 {
-    color: rgb(125, 92, 8);
-}
-
-aside {
-    display: block; 
-    font-size: 10pt;
-    text-align: justify;
-    background-color: rgb(222, 222, 222);
-    padding: 10px;
-    border-radius: 10px;
-    margin-bottom: 10px;
-}
-
-aside img {
-    width: 60px; 
-    display: block; 
-    float: left;
-    margin-right: 10px;
-}
-
-a, a:visited {
-    color: rgb(34, 34, 34);
-    font-weight: bolder;
-}
-
-a:hover {
-    color: darkgoldenrod;
-    text-decoration: none;
-}
